@@ -5,6 +5,7 @@
 
 [![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/zRCdhENsHG)
 [![Coastal City RolePlay](https://discordapp.com/api/guilds/927068544947077131/widget.png?style=banner2)](https://discord.gg/REfyBDGtpv)
+[![QBCore Discord](https://discordapp.com/api/guilds/831626422232678481/widget.png?style=banner2)](https://discord.gg/qbcore)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trclassic92&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=f20000&ring=f20000&currStreakLabel=f20000)](https://git.io/streak-stats)
 
