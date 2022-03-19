@@ -4,7 +4,7 @@
 ## Support
 - [Ko-fi Link](https://ko-fi.com/trclassic)
  <br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=trclassic92&label=Profile%20views&color=c82107style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=trclassic92&label=Profile%20views&color=c82107&style=flat"
     alt="adam-pw" /> 
   </p>
 <br>
