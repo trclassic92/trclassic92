@@ -8,7 +8,8 @@
     alt="adam-pw" /> 
   </p>
 <br>
-### Discords
+
+## Discords
 
 [![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/zRCdhENsHG)
 [![Coastal City RolePlay](https://discordapp.com/api/guilds/927068544947077131/widget.png?style=banner2)](https://discord.gg/REfyBDGtpv)
