@@ -1,5 +1,4 @@
 ## About Me
-  - Age 23
   - Former Arma 3 Developer and Arma 3 Life staff member (A3L)
   - Creator of TRClassic Scripts (Discord Server)
   - FiveM Developer (QBCore Framework)
