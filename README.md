@@ -3,8 +3,8 @@
   - Creator of TRClassic Scripts (Discord Server)
   - FiveM Developer (QBCore Framework)
   
-## Support the projects (Donation Link)
-- [Ko-fi Link](https://ko-fi.com/trclassic)
+## Support The Scripts
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](Ko-fi.com/trclassic)
  <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=trclassic92&label=Profile%20views&color=c82107&style=flat"
     alt="adam-pw" /> 
