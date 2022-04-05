@@ -4,7 +4,7 @@
   - FiveM Developer (QBCore Framework)
   
 ## Support The Scripts
-[![ko-fi](https://imgur.com/RYJGTW7)](https://ko-fi.com/trclassic)
+[![ko-fi](https://user-images.githubusercontent.com/82931913/161675457-d0a4e0b7-c9f9-4c39-8f87-bb0e6b08da62.png)](https://ko-fi.com/trclassic)
  <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=trclassic92&label=Profile%20views&color=c82107&style=flat"
     alt="adam-pw" /> 
