@@ -4,7 +4,7 @@
   - FiveM Developer (QBCore Framework)
   
 ## Support The Scripts
-[![ko-fi](https://uc34650ce984b59dd1ddee93c3e5.previews.dropboxusercontent.com/p/thumb/ABdE2WdG56Ru8RxTX05l0Ozg7BZnAOLmgHGZQoyk4oTLjgbCSEl_dv4ib3cXFaqpH1D7l5-uoRM6jU1XGJ-8dwL9Dnt0DHg5GQpcgAkBaegDokXL43eTIY3-FQqi52KhglZy8rKMVUbtX5FwyI5qYBaueWXQVkVqCSnZ4M6DaPN9X9i2E6cOlAXUJCr6DrijTN_dYrb_0myLyu1kkOAzXcX3UvMDz1P8HJOUsXhT9-mgTlXyaJHqIGKfi131oyQYZLRmbFMrM85vKldMWHWqysbgPSgqLzxbYKIZRUtU_qFF68Tx0YGCLU3hLL5Z_S3PjEaMt2f5MIO5rsnWDXW73dklCSNxB-534PJF3FcNlu2F9eh2JR2v31l8h4upD5UeWQY/p.png)](https://ko-fi.com/trclassic)
+[![ko-fi](https://imgur.com/RYJGTW7)](https://ko-fi.com/trclassic)
  <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=trclassic92&label=Profile%20views&color=c82107&style=flat"
     alt="adam-pw" /> 
