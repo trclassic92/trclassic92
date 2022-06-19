@@ -4,7 +4,8 @@
 - Discord owner for "TRClassic Community / Scripts Discord"
 - Discord Moderator for QBCore
 - Former A3L Staff
-- 
+
+
 ## Social Media Links
 - [Twitch Channel](https://twitch.tv/trclassic92) -- Active (Follow for live notifications or join the discord for alerts)
 - [Youtube Channel](https://www.youtube.com/TRClassic92) -- Active
