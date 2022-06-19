@@ -1,22 +1,20 @@
 ## About Me
-  - Former Arma 3 Developer and Arma 3 Life staff member (A3L)
-  - Creator of TRClassic Scripts (Discord Server)
-  - QBCore Moderator (QBCore Framework)
-  - FiveM Developer (QBCore Framework)
-  
-## Support The Scripts
-[![ko-fi](https://user-images.githubusercontent.com/82931913/161675457-d0a4e0b7-c9f9-4c39-8f87-bb0e6b08da62.png)](https://ko-fi.com/trclassic)
- <br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=trclassic92&label=Profile%20views&color=c82107&style=flat"
-    alt="adam-pw" /> 
-  </p>
-<br>
 
-## Discords
+- 23 years old
+- Discord owner for "TRClassic Community / Scripts Discord"
+- Discord Moderator for QBCore
+- Former A3L Staff
+- 
+## Social Media Links
+- [Twitch Channel](https://twitch.tv/trclassic92) -- Active (Follow for live notifications or join the discord for alerts)
+- [Youtube Channel](https://www.youtube.com/TRClassic92) -- Active
+- [Tebex](https://trclassic.tebex.io/) -- Active
 
+## Discord Servers (Click To Join)
 [![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/zRCdhENsHG)
 [![QBCore Discord](https://discordapp.com/api/guilds/831626422232678481/widget.png?style=banner2)](https://discord.gg/qbcore)
 
+## Github Stuff
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trclassic92&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=f20000&ring=f20000&currStreakLabel=f20000)](https://git.io/streak-stats)
 
 <p align="left">
