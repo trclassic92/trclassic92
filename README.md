@@ -3,6 +3,7 @@
 - 23 years old
 - Discord owner for "TRClassic Community / Scripts Discord"
 - Discord Moderator for QBCore
+- Developer for QBCore
 - Former A3L Staff
 
 
