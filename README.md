@@ -17,7 +17,7 @@ Discord  ►  https://discord.gg/vTCUWCnQSD
 Twitch ► https://twitch.tv/trclassic92
 
 ## Discord Servers (Click To Join)
-[![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/zRCdhENsHG)
+[![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/vTCUWCnQSD)
 
 ## Github Stuff
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trclassic92&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=f20000&ring=f20000&currStreakLabel=f20000)](https://git.io/streak-stats)
