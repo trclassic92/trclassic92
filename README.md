@@ -7,9 +7,13 @@
 
 
 ## Social Media Links
+
 Tebex ► https://trclassic.tebex.io/
+
 Github ► https://github.com/trclassic92
+
 Discord  ►  https://discord.gg/vTCUWCnQSD
+
 Twitch ► https://twitch.tv/trclassic92
 
 ## Discord Servers (Click To Join)
