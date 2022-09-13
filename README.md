@@ -7,9 +7,10 @@
 
 
 ## Social Media Links
-- [Twitch Channel](https://twitch.tv/trclassic92) -- Active (Follow for live notifications or join the discord for alerts)
-- [Youtube Channel](https://www.youtube.com/TRClassic92) -- Active
-- [Tebex](https://trclassic.tebex.io/) -- Active
+Tebex ► https://trclassic.tebex.io/
+Github ► https://github.com/trclassic92
+Discord  ►  https://discord.gg/vTCUWCnQSD
+Twitch ► https://twitch.tv/trclassic92
 
 ## Discord Servers (Click To Join)
 [![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/zRCdhENsHG)
