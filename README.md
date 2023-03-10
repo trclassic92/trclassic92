@@ -12,7 +12,7 @@ Tebex ► https://trclassic.tebex.io/
 
 Github ► https://github.com/trclassic92
 
-Discord  ►  https://discord.gg/vTCUWCnQSD
+Discord  ►  https://discord.gg/T2xX5WwmEX
 
 Twitch ► https://twitch.tv/trclassic92
 
