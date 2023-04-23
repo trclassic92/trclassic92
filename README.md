@@ -16,6 +16,8 @@ Discord  ►  https://discord.gg/T2xX5WwmEX
 
 Twitch ► https://twitch.tv/trclassic92
 
+Kick ► https://kick.com/trclassic
+
 ## Discord Servers (Click To Join)
 [![TRClassic Scripts](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/vTCUWCnQSD)
 
